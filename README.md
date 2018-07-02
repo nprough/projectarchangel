@@ -1,6 +1,6 @@
-# Project Leviathan-Dark
-Bracket's Dark Theme
+# Project Archangel-Light
+Bracket's Light Theme
 
-This theme combines shades of blues to make your code easier to see.
+This theme...
 
 Made with lots of love.
